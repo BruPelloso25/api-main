@@ -16,8 +16,11 @@ Este projeto é uma API RESTful desenvolvida com Flask, destinada à gestão de 
 ## 🚀 Como Executar o Projeto
 
 1. **Clone o repositório ou baixe os arquivos**
+```bash
+git clone https://github.com/BruPelloso25/api-main.git
+``
 
-2. **Instale as dependências**:
+3. **Instale as dependências**:
 
 ```bash
 pip install -r requirements.txt
