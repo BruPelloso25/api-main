@@ -8,7 +8,7 @@ Este projeto é uma API RESTful desenvolvida com Flask, destinada à gestão de 
 
 * **Python 3.x**
 * **Flask**
-* **SQLite** (banco padrão, mas pode ser adaptado)
+* **SQLite**
 * **Módulos**: `csv`, `io`, `json`, `flask`
 
 ---
@@ -104,4 +104,4 @@ projeto-api/
 ## 🙋‍♀️ Desenvolvido Por:
 
 **Bruna Geovanna dos Santos Pelloso**   
-Contato: brupelloso25@gmail.com
+Contato: bru.pelloso@gmail.com
